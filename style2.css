@@ -1,0 +1,397 @@
+p{
+    font-size: 20px;
+    width: 100%;
+    text-indent: 50px;
+    
+}
+h2{
+    text-align: center;
+    font-size: 22px;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+.questions{
+    font-size: 50px;
+}
+img{
+    border-radius: 20px;
+}
+.trivias{
+    margin-top: 30px; 
+    padding: 10px; 
+    width: fit-content; 
+    float: left;
+}
+table{
+    border-radius: 20px;
+    border-style: none;
+    margin: 50px;
+    margin: auto;
+}
+.theUni{
+    min-width:fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: rgba(235, 171, 76, 0.473);
+    
+    
+}
+.theUniEl{
+    margin: 20px;
+    min-height: fit-content;
+    min-width: fit-content;
+}
+.el1{
+    font-family: Cinzel;
+    font-size: 90px;
+}
+
+.theUnih3{
+    font-size: 20px;
+    text-align: center;
+    word-spacing: 10px;
+    line-height: 1.5;
+}
+.ContentList{
+    font-size: 20px;
+    text-align: center;
+    width: 300px;
+}
+li{
+    line-height: 2;
+    font-size: 20px;
+}
+a:visited{
+    color:aqua;
+}
+a:link{
+    color:aquamarine
+}
+a:hover{
+    color:aquamarine
+}
+.cosmic_gallery-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.cosmic_item{
+    width: 450px;
+    margin: 10px;
+    opacity: 1;
+    display: block;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.container1 {
+    position: relative;
+}
+.cosmic_item1{
+    min-height: 200px;
+}
+.overlay1 {
+    color: azure;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 30px;
+}
+.container1:hover .cosmic_item1 {
+    opacity: 50%;
+}
+.container1:hover .overlay1 {
+    opacity: 100%;
+    cursor: pointer;
+ }
+  
+.cosmic_item2{
+    min-height: 200px;
+}
+.container2 {
+    position: relative;
+}
+.cosmic_item2{
+    min-height: 200px;
+}
+.overlay2 {
+    color: azure;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 30px;
+}
+.container2:hover .cosmic_item2 {
+    opacity: 50%;
+}
+.container2:hover .overlay2 {
+    opacity: 100%;
+    cursor: pointer;
+ }
+
+.cosmic_item3{
+    min-height: 200px;
+}
+.container3 {
+    position: relative;
+}
+.cosmic_item3{
+    min-height: 200px;
+}
+.overlay3 {
+    color: azure;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 30px;
+}
+.container3:hover .cosmic_item3 {
+    opacity: 50%;
+}
+.container3:hover .overlay3 {
+    opacity: 100%;
+    cursor: pointer;
+ }
+.cosmic_item4{
+    min-height: 200px;
+}
+.container4 {
+    position: relative;
+}
+.cosmic_item4{
+    min-height: 200px;
+}
+.overlay4 {
+    color: azure;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 30px;
+}
+.container4:hover .cosmic_item4 {
+    opacity: 80%;
+}
+.container4:hover .overlay4 {
+    opacity: 100%;
+    cursor: pointer;
+ }
+.cosmic_item5{
+    min-height: 200px;
+}
+.container5 {
+    position: relative;
+}
+.cosmic_item5{
+    min-height: 200px;
+}
+.overlay5 {
+    color: azure;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 30px;
+}
+.container5:hover .cosmic_item5 {
+    opacity: 50%;
+}
+.container5:hover .overlay5 {
+    opacity: 100%;
+    cursor: pointer;
+ }
+ .cosmic_item6{
+    min-height: 200px;
+}
+.container6 {
+    position: relative;
+}
+.cosmic_item6{
+    min-height: 200px;
+}
+.overlay6 {
+    color: azure;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 30px;
+}
+.container6:hover .cosmic_item6 {
+    opacity: 50%;
+}
+.container6:hover .overlay6 {
+    opacity: 100%;
+    cursor: pointer;
+ }
+body{
+    background-image: url(https://media.npr.org/assets/img/2016/05/16/istock_000068588675_full_wide-08f4003d4700b3f2d1a32e208cea0988459161a1.jpg);
+    background-attachment: fixed;
+    font-family: 'Libre Baskerville', serif;
+    line-height: 1.8;
+    
+}
+form{
+    padding: auto;
+}
+.wdtub{
+    margin: auto;
+    border-radius: 10px;
+    background: linear-gradient(to left,blue, white, blue);
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.whtis{
+    margin: auto;
+    border-radius: 10px;
+    background: linear-gradient(to left,orangered, white, orangered);
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.witftitu{
+    
+    margin: auto;
+    background: linear-gradient(to left,greenyellow, white, greenyellow);
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.q1-4{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(255, 217, 47), white, rgb(255, 217, 47));
+    padding: 10px;
+    text-align: center;
+    width: 500px;
+}
+.q1-5{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(47, 255, 227), white, rgb(47, 255, 227));
+    padding: 10px;
+    text-align: center;
+    width: 500px;
+}
+.q2-1{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(47, 196, 255), white, rgb(47, 196, 255));
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.q2-2{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(255, 158, 47), white, rgb(255, 158, 47));
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.q2-3{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(165, 255, 47), white, rgb(165, 255, 47));
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.q2-4{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(234, 255, 47), white, rgb(234, 255, 47));
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.q2-5{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(47, 248, 255), white, rgb(47, 248, 255));
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.q3-1{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(47, 172, 255), white, rgb(47, 172, 255));
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.q3-2{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(255, 130, 47), white, rgb(255, 130, 47));
+    padding: 15px;
+    text-align: center;
+    width: 700px;
+}
+.q3-3{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(47, 255, 92), white, rgb(47, 255, 92));
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.q3-4{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(255, 224, 47), white, rgb(255, 224, 47));
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+.q3-5{
+    
+    margin: auto;
+    background: linear-gradient(to left,rgb(47, 206, 255), white, rgb(47, 206, 255));
+    padding: 15px;
+    text-align: center;
+    width: 500px;
+}
+dt{
+    font-size: 20px;
+
+}
+dd{
+    font-size: 20px;
+    
+}
